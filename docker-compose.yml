@@ -1,0 +1,5 @@
+services:
+  app:
+    build: .
+    image: hogwarts-academy
+    container_name: hogwarts-academy
